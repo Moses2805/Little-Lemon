@@ -42,7 +42,7 @@ function App() {
       name: "Lemon dessert",
       price: "$7.00",
       description: "This cake is adored not only for its flavor but also for its texture and simplicity. A base of creamed butter and sugar, eggs, lemon, milk, and flour are among the most basic ingredients. We omitted the brown sugar and substituted extra granulated sugar instead.",
-      imgLink: "Lemon_dessert"
+      imgLink: "Lemon_dessert.jpg"
     },
 
 
