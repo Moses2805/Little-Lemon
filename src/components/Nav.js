@@ -7,7 +7,7 @@ const Nav = () => {
             <nav>
                 <div className="container">
                     <div className="row d-flex justify-content-center mt-4">
-                        <div className="col-10 col-md-12">
+                        <div className="col-12 col-md-12">
                             <div className="navbarSection">
                                 <ul className='d-flex justify-content-center gap-5 h-100 align-items-center'>
                                     <li><Link to="/" style={{ color: "white" }}> Home </Link></li>
