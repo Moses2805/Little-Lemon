@@ -9,7 +9,7 @@ const Nav = () => {
                     <div className="row d-flex justify-content-center mt-4">
                         <div className="col-12 col-md-12">
                             <div className="navbarSection">
-                                <ul className='d-flex justify-content-center gap-4 h-100 align-items-center'>
+                                <ul className='d-flex justify-content-center gap-2 h-100 align-items-center'>
                                     <li><Link to="/" style={{ color: "white" }}> Home </Link></li>
                                     <li><Link to="/About" style={{ color: "white" }}> About </Link></li>
                                     <li><Link to="/Menu/" style={{ color: "white" }}>Menu</Link></li>
