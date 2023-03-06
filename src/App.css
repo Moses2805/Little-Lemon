@@ -1,0 +1,142 @@
+.App header .logoBox{
+    max-width: 100%;
+}
+
+.App header .logoBox img{
+    width: 100%;
+}
+
+.App nav .row .navbarSection{
+    background-color: #495e57;
+    height: 40px;
+}
+
+.App nav .row .navbarSection ul li{
+    list-style-type: none;
+    color: white;
+    font-size: 20px;
+}
+
+.App main .specialOffer{
+    min-height: 300px;
+    background-position: center;
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url(./img/restaurant_inside.jpg);
+}
+
+.App main .specialOffer .row h1, .App main .specialOffer .row p{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: 'Markazi Text', serif;
+}
+
+.App main .specialOffer .row p{
+    font-size: 30px;
+}
+
+.App main .container .row .card{
+    padding: 15px;
+    min-height: 450px!important;
+}
+
+.App main .container .row .card .card-body{
+    height: 150px;
+}
+
+.App main .container .row .card .card-title{
+    font-family: 'Markazi Text', serif;
+    font-weight: bold;
+}
+
+.App main .container .row .card .card-body ul li{
+    list-style-type: none;
+}
+
+.App footer .container{
+    background-color: #EDEFEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.App footer .container .copyright p{
+    font-size: 20px;
+    text-align: right;
+}
+
+.container .row .chefs{
+    height: 300px;
+    width: 100%;
+}
+
+.container .aboutRow h2, .book .row  h2, .menu h2, .menuitemdet .row h2{
+    font-family: 'Markazi Text', serif;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+
+.container .aboutRow p, .book form label{
+    font-size: 20px;
+    font-family: 'Markazi Text', serif;
+    font-weight: 500;
+}
+
+
+.book form input{
+    width: 100%;
+}
+
+.book form input[type=submit]{
+    background-color: #495e57;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+ main .container .row .bookNow{
+    border: 2px solid white;
+    cursor: pointer;
+    transition: all 0.5s;
+ }
+
+ main .container .row .bookNow:hover{
+    background-color: #495e57;
+    
+ }
+
+ main .card .cardLink, .menuItemBox p{
+    color: #FD7F2C;
+    text-decoration: none;
+    font-size: 20px;
+ }
+
+ main .card .cardLink:hover{
+    text-decoration: underline;
+ }
+
+ .menuitemdet .row, .book .container .row, .container .aboutRow{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 5px;
+ }
+
+ .menuitemdet .row p, .menuitemdet .row span{
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+ }
+
+ .menuitemdet .row h4{
+    font-family: 'Markazi Text', serif;
+    font-weight: bold;
+    font-size: 30px;
+ }
+
+ .menuitemdet .imgBox{
+    width: 100%;
+ }
+
+ .menuitemdet .imgBox img{
+    width: 100%;
+    height: 400px;
+ }
